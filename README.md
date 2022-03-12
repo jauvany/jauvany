@@ -2,7 +2,19 @@
 
 I'm Jauvany. I love working on Data Analysis and Data Engineering projects to help companies make data-driven decisions :raised_hands: 
 
-🔭 I’m currently working on [MEVN-CLI](https://github.com/jauvany/data-analysis)
+🔭 I’m currently working on [J WEB PROJECTS](http://jwebprojects.com)
+
+🌱 I’m currently learning IBM Data Analyst Professional Certificate
+
+👯 I’m looking to collaborate on Big Data Projects and Hakartons
+
+🤔 I’m looking for help with Meeting with new developers within Doha
+
+💬 Ask me about Moodle administration and development related issues
+
+😄 Pronouns: CEO 
+
+⚡ Fun fact: My hubby is hugging ladies 😄😄😄
 
 📫 How to reach me:
 
