@@ -26,7 +26,7 @@ I'm Jauvany. I love working on Data Analysis and Data Engineering projects to he
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#131](https://github.com/madlabsinc/teachcode/pull/131) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
+1. ❗️ Opened issue [#1](https://github.com/jauvany/jauvany/issues/1) in [jauvany/jauvany](https://github.com/jauvany/jauvany)
 2. 🎉 Merged PR [#132](https://github.com/madlabsinc/teachcode/pull/132) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
 3. 🎉 Merged PR [#133](https://github.com/madlabsinc/teachcode/pull/133) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
 4. 🎉 Merged PR [#134](https://github.com/madlabsinc/teachcode/pull/134) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
