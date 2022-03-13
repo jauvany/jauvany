@@ -29,7 +29,7 @@ I'm Jauvany. I love working on Data Analysis and Data Engineering projects to he
 2. 🎉 Merged PR [#132](https://github.com/madlabsinc/teachcode/pull/132) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
 3. 🎉 Merged PR [#133](https://github.com/madlabsinc/teachcode/pull/133) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
 4. 🎉 Merged PR [#134](https://github.com/madlabsinc/teachcode/pull/134) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
-5. 🎉 Merged PR [#35](https://github.com/jauvany/csstox/pull/35) in [jamesgeorge007/csstox](https://github.com/jauvany/csstox)
+5. 🎉 Merged PR [#35](https://github.com/jamesgeorge007/csstox/pull/35) in [jamesgeorge007/csstox](https://github.com/jamesgeorge007/csstox)
 <!--END_SECTION:activity-->
 
 ---
