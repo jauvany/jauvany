@@ -1,5 +1,7 @@
 ### Hi there 👋
-![SGS_13](https://user-images.githubusercontent.com/16118635/158059528-3a339348-2a86-4ab7-9da7-f146b695e093.jpg)
+<!--![SGS_13](https://user-images.githubusercontent.com/16118635/158059528-3a339348-2a86-4ab7-9da7-f146b695e093.jpg) -->
+![pexels-markus-spiske-177598](https://user-images.githubusercontent.com/16118635/158082443-d4acddac-d44c-40eb-88fa-f99d0af1b796.jpg)
+
 
 I'm Jauvany. I love working on Data Analysis and Data Engineering projects to help companies make data-driven decisions :raised_hands: 
 
