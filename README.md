@@ -1,4 +1,5 @@
 ### Hi there 👋
+![SGS_13](https://user-images.githubusercontent.com/16118635/158059528-3a339348-2a86-4ab7-9da7-f146b695e093.jpg)
 
 I'm Jauvany. I love working on Data Analysis and Data Engineering projects to help companies make data-driven decisions :raised_hands: 
 
