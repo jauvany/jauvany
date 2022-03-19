@@ -5,7 +5,7 @@
 
 I'm Jauvany. I love working on Data Analysis and Data Engineering projects to help companies make data-driven decisions :raised_hands: 
 
-🔭 I’m currently working on [J WEB PROJECTS](http://jwebprojects.com)
+🔭 I’m currently working on [J WEB PROJECTS](https://jauvany.github.io/jwebprojects/#services)
 
 🌱 I’m currently learning IBM Data Analyst Professional Certificate
 
