@@ -13,8 +13,6 @@ I'm Jauvany. I love working on Data Analysis and Data Engineering projects to he
 
 🤔 I’m looking for help with Meeting with new developers within Doha
 
-💬 Ask me about Moodle administration and development related issues
-
 😄 Pronouns: CEO 
 
 ⚡ Fun fact: My hubby is hugging ladies 😄😄😄
