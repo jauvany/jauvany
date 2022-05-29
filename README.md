@@ -3,17 +3,15 @@
 ![pexels-markus-spiske-177598](https://user-images.githubusercontent.com/16118635/158082443-d4acddac-d44c-40eb-88fa-f99d0af1b796.jpg)
 
 
-I'm Jauvany. I love working on Data Analysis and Data Engineering projects to help companies make data-driven decisions :raised_hands: 
+I'm Jauvany. I am a Software Engineer with Top programming languages: Python, Javascript, and SQL. Preferred library, ReactJS Proficient in markup languages: HTML, CSS, and Markdown. :raised_hands: 
 
 🔭 I’m currently working on [J WEB PROJECTS](https://jauvany.github.io/jwebprojects/#services)
 
-🌱 I’m currently learning IBM Data Analyst Professional Certificate
+🌱 I’m currently learning Google IT Automation with Python Professional Certificate
 
-👯 I’m looking to collaborate on Big Data Projects and Hakartons
+👯 I’m looking to collaborate software Projects and Hakartons
 
-🤔 I’m looking for help with Meeting with new developers within Doha
-
-😄 Pronouns: CEO 
+😄 Pronouns: Jauvany 
 
 ⚡ Fun fact: My hubby is hugging ladies 😄😄😄
 
