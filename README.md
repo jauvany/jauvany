@@ -5,9 +5,9 @@
 
 I'm Jauvany. I am a Software Engineer with Top programming languages: Python, Javascript, and SQL. Preferred library, ReactJS Proficient in markup languages: HTML, CSS, and Markdown. :raised_hands: 
 
-🔭 I’m currently working on [J WEB PROJECTS](https://jauvany.github.io/jwebprojects/#services)
+🔭 I’m currently working on smart contracts
 
-🌱 I’m currently learning Google IT Automation with Python Professional Certificate
+🌱 I’m currently learning Web 3.0 Security
 
 👯 I’m looking to collaborate software Projects and Hakartons
 
