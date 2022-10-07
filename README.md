@@ -3,7 +3,7 @@
 ![pexels-markus-spiske-177598](https://user-images.githubusercontent.com/16118635/158082443-d4acddac-d44c-40eb-88fa-f99d0af1b796.jpg)
 
 
-I'm Jauvany. I am a Software Engineer with Top programming languages: Python, Javascript, and SQL. Preferred library, ReactJS Proficient in markup languages: HTML, CSS, and Markdown. :raised_hands: 
+I'm Jauvany. I am a Software Engineer with Top programming languages: Python and Solidity. Proficient in markup languages: HTML, CSS, and Markdown. :raised_hands: 
 
 🔭 I’m currently working on smart contracts
 
