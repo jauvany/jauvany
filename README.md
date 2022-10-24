@@ -9,7 +9,7 @@ I'm Jauvany. I am a Software Engineer with Top programming languages: Python and
 
 🌱 I’m currently learning Web 3.0 Security
 
-👯 I’m looking to collaborate software Projects and Hakartons
+👯 I’m looking to collaborate software Projects and Hakathons
 
 😄 Pronouns: Jauvany 
 
