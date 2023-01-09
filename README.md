@@ -11,8 +11,6 @@ I'm Jauvany. I am a Software Engineer with Top programming languages: Python and
 
 👯 I’m looking to collaborate software Projects and Hakathons
 
-😄 Pronouns: Jauvany 
-
 ⚡ Fun fact: My hubby is hugging ladies 😄😄😄
 
 📫 How to reach me:
