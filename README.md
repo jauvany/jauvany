@@ -3,7 +3,9 @@
 ![pexels-markus-spiske-177598](https://user-images.githubusercontent.com/16118635/158082443-d4acddac-d44c-40eb-88fa-f99d0af1b796.jpg)
 
 
-I'm Jauvany. I am a Software Engineer with Top programming languages: Python and Solidity. Proficient in markup languages: HTML, CSS, and Markdown. :raised_hands: 
+Welcome to my GitHub! I'm a passionate software engineer with a strong focus on building robust, scalable solutions. My primary languages are Python, Solidity, and SQL, and I love leveraging these tools to solve complex problems and create innovative projects. Whether it's writing secure smart contracts, crafting efficient database queries, or developing full-stack applications, I'm always up for a challenge.
+
+Feel free to explore my repositories and connect with me on any cool project ideas!
 
 🔭 I’m currently working on smart contracts
 
